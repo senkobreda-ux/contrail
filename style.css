@@ -1,9 +1,10 @@
 .box {
-  background-color: #dddddd;
-  padding: 20px;
+  background-color: #ddeeff;
+  padding: 5px;
   width: 200px;
-  margin: 20px;
+  margin: 5px;
   box-sizing: border-box;
+  gap: 5px;`
 }
 
 .box img {
