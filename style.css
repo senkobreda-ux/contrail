@@ -5,3 +5,7 @@
   margin: 20px;
   box-sizing: border-box;
 }
+
+.box img {
+  max-width: 100%;
+}
