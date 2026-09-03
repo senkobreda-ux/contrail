@@ -1,5 +1,7 @@
 .box {
-  background-color: #888888;
-  padding: 20;
-  width: 400;
+  background-color: #aaaaaa;
+  padding: 20px;
+  width: 200px;
+  margin: 20px;
+  box-sizing: border-box;
 }
